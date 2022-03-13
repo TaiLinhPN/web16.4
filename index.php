@@ -12,6 +12,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <img src="./asstes/img/........" alt="">
 </body>
 </html>
